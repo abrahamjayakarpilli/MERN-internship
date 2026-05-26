@@ -1,1 +1,1 @@
-# MERN-internship
+# MERN-internship-assessments
